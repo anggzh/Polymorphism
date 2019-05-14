@@ -1,0 +1,6 @@
+D:\18.11.2297\Polymorhism1\Polymorhism1\obj\Debug\Polymorhism1.csproj.CoreCompileInputs.cache
+D:\18.11.2297\Polymorhism1\Polymorhism1\bin\Debug\Polymorhism1.exe.config
+D:\18.11.2297\Polymorhism1\Polymorhism1\bin\Debug\Polymorhism1.exe
+D:\18.11.2297\Polymorhism1\Polymorhism1\bin\Debug\Polymorhism1.pdb
+D:\18.11.2297\Polymorhism1\Polymorhism1\obj\Debug\Polymorhism1.exe
+D:\18.11.2297\Polymorhism1\Polymorhism1\obj\Debug\Polymorhism1.pdb
